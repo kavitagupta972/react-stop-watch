@@ -4,6 +4,16 @@ p {
     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
+
+.container {
+  background-color: lightgray;
+  border: 2px solid greenyellow;
+  border-radius: 5%;
+  padding: 20px;
+  font-size: larger;
+  
+}
+
 .timer {
   display: flex;
 }
@@ -30,10 +40,3 @@ button {
   background-color: rgba(42, 42, 248, 0.992);
 }
 
-.container {
-  background-color: lightgray;
-  border: 2px solid greenyellow;
-  border-radius: 5%;
-  padding: 20px;
-  font-size: larger;
-}

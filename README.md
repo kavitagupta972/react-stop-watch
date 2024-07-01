@@ -1,3 +1,2 @@
 # react-stop-watch
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/kavitagupta972/react-stop-watch)
+Created sample stop watch application with react, using setInterval and clearInterval 
